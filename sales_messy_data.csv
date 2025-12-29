@@ -1,0 +1,16 @@
+Transaction ID,Item,Quantity,Price Per Unit,Total Spent,Payment Method,Location,Transaction Date
+TX001,Apple,2,10,20,Cash,Lahore,2024 01 05
+TX002,Banana,,5,15,Card,Karachi,2024 01 06
+TX003,apple,3,,30,,lahore,
+TX004,Orange,1,20,20,CASH,,2024 01 07
+TX005,,4,8,32,Card,Islamabad,2024 01 08
+TX006,Mango,two,15,30,Online,Lahore,2024 01 09
+TX007,Banana,5,5,,cash,Karachi,2024 01 10
+TX008,Orange,0,20,0,Card,Lahore,wrong date
+TX009,Apple,3,10,thirty,Online,,2024 01 11
+TX010,Apple, ,10,10,Card,Islamabad,2024 01 12
+TX011,Orange,2,,40,Cash,Lahore,
+TX012,Banana,1,5,5,,Karachi,2024 01 13
+TX013,apple,3,10,30,Card,lahore,2024 01 14
+TX014,Mango,,15,,Online,Lahore,2024 01 15
+TX015,,2,20,40,Cash,Islamabad,2024 01 16
